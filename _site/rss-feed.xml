@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Tea Collection</title>
+		<description>This is the tea available at my place</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Wuyi Ensemble Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/oolong/wuyi_ensemble.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/wuyi-ensemble</link>
+				<guid isPermaLink="true">http://localhost:4000/wuyi-ensemble</guid>
+			</item>
+		
+			<item>
+				<title>White Peony Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/white/white_peony.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/white-peony</link>
+				<guid isPermaLink="true">http://localhost:4000/white-peony</guid>
+			</item>
+		
+			<item>
+				<title>Ti Kuan Yin Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/oolong/ti_kuan_yin.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/ti-kuan-yin</link>
+				<guid isPermaLink="true">http://localhost:4000/ti-kuan-yin</guid>
+			</item>
+		
+			<item>
+				<title>Rooibos Earl Grey Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/rooibos/rooibos_earl_grey.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/rooibos-earl-grey</link>
+				<guid isPermaLink="true">http://localhost:4000/rooibos-earl-grey</guid>
+			</item>
+		
+			<item>
+				<title>Formosa Bai Hao Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/oolong/formosa_fancy.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/formosa-bai-hao</link>
+				<guid isPermaLink="true">http://localhost:4000/formosa-bai-hao</guid>
+			</item>
+		
+			<item>
+				<title>Earl Grey Moonlight Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/black/earl_grey_moonlight.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/earl-grey-moonlight</link>
+				<guid isPermaLink="true">http://localhost:4000/earl-grey-moonlight</guid>
+			</item>
+		
+			<item>
+				<title>Earl Grey Green Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/green/earl_grey_green.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/earl-grey-green</link>
+				<guid isPermaLink="true">http://localhost:4000/earl-grey-green</guid>
+			</item>
+		
+			<item>
+				<title>Earl Grey Bravo Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/black/earl_grey_bravo.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/earl-grey-bravo</link>
+				<guid isPermaLink="true">http://localhost:4000/earl-grey-bravo</guid>
+			</item>
+		
+			<item>
+				<title>Decaf Earl Grey Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/decaf/decaf_earl_grey.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/decaf-earl-grey</link>
+				<guid isPermaLink="true">http://localhost:4000/decaf-earl-grey</guid>
+			</item>
+		
+			<item>
+				<title>Darjeeling Spring Tip Tea</title>
+				
+					<dc:creator>Stephanie</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.adagio.com/black/darjeeling_spring_tip.html&quot;&gt;I bought this from Adagio&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/darjeeling-spring-tip</link>
+				<guid isPermaLink="true">http://localhost:4000/darjeeling-spring-tip</guid>
+			</item>
+		
+	</channel>
+</rss>

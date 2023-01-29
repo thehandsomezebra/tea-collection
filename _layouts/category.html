@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+
+
+{% if site.categories[page.category].size > 0 %}
+
+{% for post in site.posts %}
+  {% if post.categories contains page.category %}
+    {% include featured-post.html %}
+  {% endif %}
+{% endfor %}
+{% else %}
+
+<p>Sorry, it looks like I've never enjoyed a tea like this before. </p>
+
+<p>Maybe I should.</p>
+
+<p><a href="favorites">I'd recommend you to check out one of my favorites.</a></p>
+{% endif %}

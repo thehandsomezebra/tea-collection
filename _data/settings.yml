@@ -1,0 +1,46 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  # disqus_shortname: 'tea-collection'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: "G-809N7YQZZF"
+
+menu:
+  - { name: "Currently Available", url: "current" }
+  - { name: "All Teas", url: "allteas" }
+  - { name: "Favorite Teas", url: "favorites" }
+  # - { name: "Black Teas", url: "black" }
+  # - { name: "Chai Teas", url: "chai" }
+  # - { name: "Flavored Teas", url: "flavored" }
+  # - { name: "Oolong Teas", url: "oolong" }
+  # - { name: "White Teas", url: "white" }
+  # - { name: "Green Teas", url: "green" }
+  # - { name: "Matcha Teas", url: "matcha" }
+  # - { name: "Herbal Teas", url: "herbal" }
+  # - { name: "Rooibos Teas", url: "rooibos" }
+  # - { name: "Decaf Teas", url: "decaf" }
+  # - { name: "Pu-Erh Teas", url: "puerh" }
+  - { name: "About", url: "About" }
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+  # - { icon: "twitter", extra: "fa-brands", link: "https://twitter.com/handsomezebra" }
+  - { icon: "github", extra: "fa-brands", link: "https://github.com/thehandsomezebra" }
+  - { icon: "mastodon", extra: "fa-brands", link: "https://defcon.social/@handsomezebra" }
+  # - { icon: "facebook", link: "https://www.facebook.com/" }
+  # - { icon: "instagram", link: "https://instagram.com/" }
+  # - { icon: "envelope", link: "mailto:tea@handsomezebra.com" }
+  - { icon: "rss", link: "feed.xml" }
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: "Newer"
+  previous_page: "Older"
+
+# sharing_button_prompt: 'Feel free to share!'
+
+related_posts: "You may also enjoy..."
+
+post_date_prefix: "Purchased this tea on"
